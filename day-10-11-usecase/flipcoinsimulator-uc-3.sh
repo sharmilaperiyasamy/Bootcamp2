@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-echo "Flip COin Simulator"
+echo "Flip Coin Simulator"
 echo " "
 
 wonCount=0
